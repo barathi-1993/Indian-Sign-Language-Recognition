@@ -1,6 +1,5 @@
 <h1 align="center">
-  MOPGRU-ISL: MediaPipe-Optimized GRU Model <br>
-  for Indian Sign Language Recognition
+  An integrated mediapipe-optimized GRU model for Indian sign language recognition
 </h1>
 
 <p align="center">
