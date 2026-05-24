@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center">   
   An integrated mediapipe-optimized GRU model for Indian sign language recognition
 </h1>
 
